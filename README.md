@@ -62,7 +62,20 @@
 </ul>
 
 <h2>Demo and Screenshots</h2>
-![1](https://github.com/ATOMworkplace/Event-Management-System/assets/114564628/80d8e528-98ff-485e-a48e-45876f65f20d)
+
+![1](https://github.com/ATOMworkplace/Event-Management-System/assets/114564628/fe1d9318-4d39-4d83-bfac-8d3987972eef)
+
+![2](https://github.com/ATOMworkplace/Event-Management-System/assets/114564628/76f8a250-f0a4-40ae-95ec-043af9803488)
+
+![4](https://github.com/ATOMworkplace/Event-Management-System/assets/114564628/e72efd4f-606c-4e27-982b-d7f8a7308b8c)
+
+![7](https://github.com/ATOMworkplace/Event-Management-System/assets/114564628/939efa49-8b4a-4456-aa98-c0d2404129d1)
+
+![5](https://github.com/ATOMworkplace/Event-Management-System/assets/114564628/2670b3d4-1403-40ae-9f82-27e4bd342577)
+
+![3](https://github.com/ATOMworkplace/Event-Management-System/assets/114564628/16429241-2843-4f8f-9174-ac8e23c4fd3a)
+
+![6](https://github.com/ATOMworkplace/Event-Management-System/assets/114564628/df5724b0-a850-4fdb-8f46-68f082577b00)
 
 
 # Getting Started with Create React App
