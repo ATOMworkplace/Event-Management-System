@@ -1,24 +1,65 @@
-EVESPARK : EventManagement Full Stack Project
-Problem Statement
-In college environments, organizing events and connecting with like-minded individuals can be challenging. Traditional event management systems often lead to WhatsApp spamming for event promotions and long queues during ticket distribution, disrupting the seamless organization and participation experience. To address these issues, we developed EveSpark.
+<h1>EventManagement Full Stack Project</h1>
 
-EveSpark provides a centralized platform for students to discover, engage with, and participate in events tailored to their interests and preferences. By streamlining event management processes and enhancing communication channels, EveSpark empowers students to forge meaningful connections, fostering a vibrant community where ideas flourish and collaborations thrive.
+    <h2>Problem Statement</h2>
+    <p>In college environments, organizing events and connecting with like-minded individuals can be challenging.
+        Traditional event management systems often lead to WhatsApp spamming for event promotions and long queues
+        during ticket distribution, disrupting the seamless organization and participation experience. To address these
+        issues, we developed EveSpark.</p>
+    <p>EveSpark provides a centralized platform for students to discover, engage with, and participate in events
+        tailored to their interests and preferences. By streamlining event management processes and enhancing
+        communication channels, EveSpark empowers students to forge meaningful connections, fostering a vibrant community
+        where ideas flourish and collaborations thrive.</p>
 
-Tech Stack
-Backend
-Node.js: Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine, allowing us to run JavaScript on the server-side. It provides an event-driven, non-blocking I/O model that makes it lightweight and efficient.
-Express.js: Express.js is a web application framework for Node.js, designed for building web applications and APIs. It provides a robust set of features for web and mobile applications, including routing, middleware support, and template engines.
-MySQL: MySQL is a widely-used relational database management system (RDBMS) known for its reliability, scalability, and performance. It provides a comprehensive set of tools for managing databases and executing complex queries.
-Frontend
-React.js: React.js is a JavaScript library for building user interfaces, developed by Facebook. It allows us to create reusable UI components and build complex UIs with a declarative approach. React.js promotes efficiency and scalability in frontend development.
-Database
-MySQL with Sequelize (ORM): Sequelize is an Object-Relational Mapping (ORM) library for Node.js, designed to work with relational databases like MySQL. It simplifies database interactions by mapping database objects to JavaScript objects, providing a seamless interface for database operations.
-Authentication
-In-house Authentication System: We implemented a custom authentication system for streamlined user authentication and authorization processes. This system ensures secure access to the application's features and data.
-API Design
-RESTful API: We designed a RESTful API to facilitate seamless communication between the frontend and backend systems. This API follows the principles of Representational State Transfer (REST), allowing for standardized and efficient data exchange.
-Additional Technologies
-Flask and CORS: We used Flask, a micro web framework for Python, for additional backend functionality. CORS (Cross-Origin Resource Sharing) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.
+    <h2>Tech Stack</h2>
+
+    <h3>Backend</h3>
+    <ul>
+        <li><strong>Node.js:</strong> Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine, allowing us
+            to run JavaScript on the server-side. It provides an event-driven, non-blocking I/O model that makes it
+            lightweight and efficient.</li>
+        <li><strong>Express.js:</strong> Express.js is a web application framework for Node.js, designed for building web
+            applications and APIs. It provides a robust set of features for web and mobile applications, including
+            routing, middleware support, and template engines.</li>
+        <li><strong>MySQL:</strong> MySQL is a widely-used relational database management system (RDBMS) known for its
+            reliability, scalability, and performance. It provides a comprehensive set of tools for managing databases
+            and executing complex queries.</li>
+    </ul>
+
+    <h3>Frontend</h3>
+    <ul>
+        <li><strong>React.js:</strong> React.js is a JavaScript library for building user interfaces, developed by
+            Facebook. It allows us to create reusable UI components and build complex UIs with a declarative approach.
+            React.js promotes efficiency and scalability in frontend development.</li>
+    </ul>
+
+    <h3>Database</h3>
+    <ul>
+        <li><strong>MySQL with Sequelize (ORM):</strong> Sequelize is an Object-Relational Mapping (ORM) library for
+            Node.js, designed to work with relational databases like MySQL. It simplifies database interactions by
+            mapping database objects to JavaScript objects, providing a seamless interface for database operations.</li>
+    </ul>
+
+    <h3>Authentication</h3>
+    <ul>
+        <li><strong>In-house Authentication System:</strong> We implemented a custom authentication system for streamlined
+            user authentication and authorization processes. This system ensures secure access to the application's
+            features and data.</li>
+    </ul>
+
+    <h3>API Design</h3>
+    <ul>
+        <li><strong>RESTful API:</strong> We designed a RESTful API to facilitate seamless communication between the
+            frontend and backend systems. This API follows the principles of Representational State Transfer (REST),
+            allowing for standardized and efficient data exchange.</li>
+    </ul>
+
+    <h3>Additional Technologies</h3>
+    <ul>
+        <li><strong>Flask and CORS:</strong> We used Flask, a micro web framework for Python, for additional backend
+            functionality. CORS (Cross-Origin Resource Sharing) is a mechanism that allows restricted resources on a
+            web page to be requested from another domain outside the domain from which the first resource was served.
+        </li>
+    </ul>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
