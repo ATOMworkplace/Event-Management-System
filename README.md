@@ -60,6 +60,11 @@
         web page to be requested from another domain outside the domain from which the first resource was served.
     </li>
 </ul>
+
+<h2>Demo and Screenshots</h2>
+![1](https://github.com/ATOMworkplace/Event-Management-System/assets/114564628/80d8e528-98ff-485e-a48e-45876f65f20d)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
