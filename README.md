@@ -1,5 +1,4 @@
 <h1>EventManagement Full Stack Project</h1>
-
 <h2>Problem Statement</h2>
 <p>In college environments, organizing events and connecting with like-minded individuals can be challenging.
     Traditional event management systems often lead to WhatsApp spamming for event promotions and long queues
